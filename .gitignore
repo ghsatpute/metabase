@@ -9,6 +9,7 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
+*.iml
 /.lein-env
 /.lein-failures
 /.lein-plugins
